@@ -8,4 +8,5 @@ while value <= amount:
     f.write(f'{code}\n')
     f.close()
     print(f'[GENERATED] {code}')
-    value += 1
+    value += 10
+    
